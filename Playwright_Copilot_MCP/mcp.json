@@ -1,0 +1,11 @@
+{
+  "name": "PlaywrightCopilot",
+  "description": "Run Playwright tests via Copilot MCP",
+  "tools": [
+    {
+      "name": "runPlaywrightTests",
+      "description": "Execute Playwright test suite",
+      "command": "npx playwright test"
+    }
+  ]
+}
